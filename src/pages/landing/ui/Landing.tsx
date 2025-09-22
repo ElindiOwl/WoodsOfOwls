@@ -1,4 +1,4 @@
-export const MainPage = () => {
+export const Landing = () => {
 	return (
 		<div style={{
 			alignItems: 'center',

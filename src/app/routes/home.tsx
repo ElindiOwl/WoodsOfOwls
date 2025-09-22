@@ -1,4 +1,4 @@
-import {MainPage} from 'pages/Main-Page';
+import {Landing} from "pages/landing";
 
 export const meta = () => {
     return [
@@ -10,7 +10,7 @@ export const meta = () => {
 const Home = () => {
     return (
         <>
-            <MainPage/>
+            <Landing/>
         </>
     );
 };
